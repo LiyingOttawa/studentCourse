@@ -1,0 +1,5 @@
+org\cst8288Lab2\dao\CourseDAOTest.class
+org\cst8288Lab2\reports\ReporterTest.class
+org\cst8288Lab2\dao\StudentDAOTest.class
+org\cst8288Lab2\validation\CSVDataValidatorTest.class
+org\cst8288Lab2\dao\DBConnectionTest.class
